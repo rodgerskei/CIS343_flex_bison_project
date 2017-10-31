@@ -1,6 +1,6 @@
-#ifndef			__SMART_TURTLE__
+#ifndef			__ZOOMJOYSTRONG__
 
-#define			__SMART_TURTLE__
+#define			__ZOOMJOYSTRONG__
 
 
 

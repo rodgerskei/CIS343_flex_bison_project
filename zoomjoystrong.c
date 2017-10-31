@@ -16,7 +16,7 @@ void setup(){
 
 		(
 
-		 "SmartTurtle", SDL_WINDOWPOS_UNDEFINED,
+		 "zoomjoystrong", SDL_WINDOWPOS_UNDEFINED,
 
 		 SDL_WINDOWPOS_UNDEFINED,
 
